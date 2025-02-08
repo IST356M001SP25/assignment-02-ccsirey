@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Charles Sirey
+Sudent Email:  ccsirey@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I got more comfortable working with various kinds of loops. I originally had some problems making the dictionary in the first function. I was able to figure it out by making the whole thing simpler. For example, I know a dictionary is "key[value]" so I just had to apply that to my split list. I was never able to figure out how to combine items, for example, if you were to do 20 balls in a box and 20 boxes in a crate, I couldn't get the dictionary to show just 20 boxes, it would show that and the 1 box, while this didn't affect the totals because it is just being multiplied by 1, it makes the dictionaries incorrect. I also got more used to using the debugger and the tests. Finally, I got more comfortable reading in files as well as writing in JSON. This was something that I never fully understood when taking IST 256. It just seemed a bit confusing to me when I saw it for the first time.
